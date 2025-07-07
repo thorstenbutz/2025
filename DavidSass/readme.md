@@ -19,3 +19,5 @@ In a purely Defender XDR based Security Operations Center, repetitive workflows 
 In this session, I’ll demonstrate how I used PowerShell Notebooks to develop tools that eliminated almost all of this browser based repetitive work, increased efficiency, and enhanced incident response. Expect live demos of tools in use, all designed to scale SOC capabilities without adding licensing costs.
 
 Prerequisite: Watch Execute Notebooks Everywhere from PSConfEU 2024. This session will arm you with actionable insights to improve your SOC’s performance and drive down costs.
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpsconfeu%2F2025%2FDavidSass%2Freadme.md&countColor=%23263759)
